@@ -13,7 +13,7 @@ def fibonacci(n):
 
 # Driver Program
 
-n = 9
+n = 10
 result = fibonacci(n)
 
 print(f"Fibonacci number at position {n} is {result}")
