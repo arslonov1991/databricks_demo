@@ -13,6 +13,5 @@ def fibonacci(n):
 
 # Driver Program
 n = 92
-m=22
 result = fibonacci(n)
 print(f"Fibonacci number at position {n} is {result}")
